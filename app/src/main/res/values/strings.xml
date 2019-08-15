@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Khabar</string>
+    <string name="news_image">articles image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hot">Hot</string>
+    <string name="more">More</string>
+    <string name="network_issue">Network Issue</string>
+    <string name="sports">Sports</string>
+    <string name="tech">Tech</string>
+</resources>
